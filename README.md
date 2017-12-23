@@ -32,7 +32,7 @@ They prove that using web technologies are stable and mature enough for professi
 
 
 
-## Notable Mentions
+## Notable Mentions
 
 - [Robostorm](https://robostorm.io/)
   * HTML, CSS, JavaScript, WebGL, Playcanvas engine and tools
