@@ -46,6 +46,13 @@ They prove that using web technologies are stable and mature enough for professi
 	* Pilot a mech and blow others up
 	* HTML, CSS, JavaScript, WebGL, Playcanvas engine and tools
 
+- [wanderers.io](https://wanderers.io/)
+	* Top-down multiplayer game, where you control a small tribe, gather food, etc.
+	* HTML, CSS, JavaScript, Canvas
+
+- [wilds.io](http://wilds.io/)
+	* Top-down multiplayer game with melee
+	* HTML, CSS, JavaScript, Canvas
 
 
 ## Mini
