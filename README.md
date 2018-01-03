@@ -14,6 +14,8 @@ They prove that using web technologies are stable and mature enough for professi
 
 ## Full Games
 
+Games where you can seriously spend a lot of time in and get immersed.
+
 - [Game Dev Tycoon](http://www.greenheartgames.com/app/game-dev-tycoon/)
 	* Game about running your own game development studio, running software contracts on the side to help establish it and make it big 
 	* Very popular game that topped Steam charts for a while and was seen on many YouTube Let's Plays
@@ -35,15 +37,18 @@ They prove that using web technologies are stable and mature enough for professi
 
 ## Notable
 
+Small games that are well put together where you could still end up getting hours of fun out of.
+
 - [galax.io](https://galax.io/)
 	* Fast-paced multiplayer game
 	* Fly around a spaceship (third person) and try to blow others up
-	* You can upgrade 
+	* You can upgrade to newer ships
 	* HTML, CSS, JavaScript, WebGL
 
 - [Robostorm](https://robostorm.io/)
 	* Fast-paced multiplayer top-down game
 	* Pilot a mech and blow others up
+	* Very basic shop for upgrades 
 	* HTML, CSS, JavaScript, WebGL, Playcanvas engine and tools
 
 - [wanderers.io](https://wanderers.io/)
@@ -57,22 +62,36 @@ They prove that using web technologies are stable and mature enough for professi
 
 ## Mini
 
+Little charming experiences that stood out.
+
 - [Moments of HAPPINESS](https://moments.epic.net/)
 	* HTML, CSS, JavaScript, WebGL
 	* Little creatures that react to the user, really nicely polished and minimal
 
 
 
-## Others
+## How to get into frontend game dev
+
+- [MDN Web Docs on Games](https://developer.mozilla.org/en-US/docs/Games)
+	* MDN seems to have a great portal which covers important concepts specifically around gamedev with a web stack in mind
+
+- [Game Programming Resources Thread](https://twitter.com/amzeratul/status/946768612404187136)
+	* This is a great twitter thread on gamedev resources
+
+
+
+## Communities
+
+- [html5gamedevs.com](http://www.html5gamedevs.com/)
+- [r/html5gamedevs](https://www.reddit.com/r/html5gamedevs/)
+- [Animation At Work Slack](http://slack.animationatwork.com) has a `#gamedev` channel
+
+
+
+## Collections
+
+Websites that list other games out there, usually mostly low quality games though, but that goes for any platform in general. It's all just statistics: If 90% of everything is shit, then having a lot of shit means your gonna get a lot more of the 10% that are good, and the 10% of _those_ that are awesome.
 
 - https://iogames.space/
-	* List of .io games, some of them are particularly popular
-	* Usually mostly Canvas, JavaScript
-
 - https://www.crazygames.com/c/io
-	* Another list of .io games
-	* Usually mostly Canvas, JavaScript
-
-
-
-
+- http://html5games.com/
