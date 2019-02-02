@@ -7,9 +7,16 @@ This is a curated list dedicated to games developed using web technologies.
 Usually some mix of HTML, CSS, JavaScript, Canvas and/or WebGL.
 
 
-This curation is to show off games that stand out.
+This curation is to show off games that stand out. Also libraries or news pertaining to important developments in the industry.
 They prove that using web technologies are stable and mature enough for professional game development.
 
+
+## News
+
+- Low Latency Canvas
+	* Chrome is implementing a low latency mode for 2D & WebGL canvas: https://www.chromestatus.com/feature/6360971442388992
+	* It's a subtle change but actually important in games where timing can be sensitive
+	* Critical for games with action or twitch controls
 
 
 ## Full Games
