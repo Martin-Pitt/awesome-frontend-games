@@ -14,9 +14,9 @@ They prove that using web technologies are stable and mature enough for professi
 ## News
 
 - Low Latency Canvas
-	* Chrome is implementing a low latency mode for 2D & WebGL canvas: https://www.chromestatus.com/feature/6360971442388992
-	* It's a subtle change but actually important in games where timing can be sensitive
-	* Critical for games with action or twitch controls
+	* Browsers are implementing a low latency mode for Canvas contexts (2D, WebGL, WebGL2) that bypass DOM updates
+	* Pass in a `desynchronized` hint into the context attributes (hint renamed from `lowLatency` in Chrome ≤74)
+	* Learn more at https://developers.google.com/web/updates/2019/05/desynchronized
 
 
 ## Full Games
