@@ -40,6 +40,11 @@ Games where you can seriously spend a lot of time in and get immersed.
 	* Really high quality game for pinball, they didn't pull their punches
 	* HTML, CSS, JavaScript, WebGL
 
+- [Krunker](https://krunker.io/)
+	* Pretty much your standard multiplayer first person shooter
+	* Works well and you can get playing instantly
+	* HTML, CSS, WebAssembly
+
 
 
 ## Notable
